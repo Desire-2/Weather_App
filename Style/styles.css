@@ -93,9 +93,9 @@ img{
     width: 100px;
     height:100px;
 }
-.text {
+#text {
     font-weight: 800;
-    color: aliceblue;
+    color: rgb(4, 27, 47);
 }
 .container-fluid {
     padding: 10px;
